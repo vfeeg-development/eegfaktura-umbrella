@@ -1,0 +1,88 @@
+[submodule "cluster"]
+	path = cluster
+	url = https://github.com/vfeeg-development/cluster.git
+	branch = main
+[submodule "eegfaktura-admin-backend"]
+	path = eegfaktura-admin-backend
+	url = https://github.com/eegfaktura/eegfaktura-admin-backend.git
+	branch = master
+[submodule "eegfaktura-admin"]
+	path = eegfaktura-admin
+	url = https://github.com/eegfaktura/eegfaktura-admin.git
+	branch = master
+[submodule "eegfaktura-backend"]
+	path = eegfaktura-backend
+	url = https://github.com/eegfaktura/eegfaktura-backend.git
+	branch = master
+[submodule "eegfaktura-billing-docker"]
+	path = eegfaktura-billing-docker
+	url = https://github.com/eegfaktura/eegfaktura-billing-docker.git
+	branch = main
+[submodule "eegfaktura-billing"]
+	path = eegfaktura-billing
+	url = https://github.com/eegfaktura/eegfaktura-billing.git
+	branch = master
+[submodule "eegfaktura-docker-compose"]
+	path = eegfaktura-docker-compose
+	url = https://github.com/eegfaktura/eegfaktura-docker-compose.git
+	branch = main
+[submodule "eegfaktura-docs"]
+	path = eegfaktura-docs
+	url = https://github.com/eegfaktura/eegfaktura-docs.git
+	branch = main
+[submodule "eegfaktura-eda-comm"]
+	path = eegfaktura-eda-comm
+	url = https://github.com/eegfaktura/eegfaktura-eda-comm.git
+	branch = master
+[submodule "eegfaktura-eda-docker"]
+	path = eegfaktura-eda-docker
+	url = https://github.com/eegfaktura/eegfaktura-eda-docker.git
+	branch = main
+[submodule "eegfaktura-eda-xp"]
+	path = eegfaktura-eda-xp
+	url = https://github.com/eegfaktura/eegfaktura-eda-xp.git
+	branch = master
+[submodule "eegfaktura-energystore-docker"]
+	path = eegfaktura-energystore-docker
+	url = https://github.com/eegfaktura/eegfaktura-energystore-docker.git
+	branch = main
+[submodule "eegfaktura-energystore"]
+	path = eegfaktura-energystore
+	url = https://github.com/eegfaktura/eegfaktura-energystore.git
+	branch = main
+[submodule "eegfaktura-filestore"]
+	path = eegfaktura-filestore
+	url = https://github.com/eegfaktura/eegfaktura-filestore.git
+	branch = main
+[submodule "eegfaktura-gitops"]
+	path = eegfaktura-gitops
+	url = https://github.com/vfeeg-development/eegfaktura-gitops.git
+	branch = main
+[submodule "eegfaktura-keycloak"]
+	path = eegfaktura-keycloak
+	url = https://github.com/eegfaktura/eegfaktura-keycloak.git
+	branch = main
+[submodule "eegfaktura-mosquitto"]
+	path = eegfaktura-mosquitto
+	url = https://github.com/eegfaktura/eegfaktura-mosquitto.git
+	branch = main
+[submodule "eegfaktura-platform"]
+	path = eegfaktura-platform
+	url = https://github.com/vfeeg-development/eegfaktura-platform.git
+	branch = main
+[submodule "eegfaktura-postfix"]
+	path = eegfaktura-postfix
+	url = https://github.com/eegfaktura/eegfaktura-postfix.git
+	branch = main
+[submodule "eegfaktura-postgresql"]
+	path = eegfaktura-postgresql
+	url = https://github.com/eegfaktura/eegfaktura-postgresql.git
+	branch = main
+[submodule "eegfaktura-proxy-docker"]
+	path = eegfaktura-proxy-docker
+	url = https://github.com/eegfaktura/eegfaktura-proxy-docker.git
+	branch = main
+[submodule "eegfaktura-web"]
+	path = eegfaktura-web
+	url = https://github.com/eegfaktura/eegfaktura-web.git
+	branch = master
