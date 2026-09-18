@@ -50,3 +50,7 @@
 	path = eegfaktura-web
 	url = https://github.com/eegfaktura/eegfaktura-web.git
 	branch = master
+[submodule "eegfaktura-konzepte"]
+	path = eegfaktura-konzepte
+	url = https://github.com/vfeeg-development/eegfaktura-konzepte.git
+	branch = master
