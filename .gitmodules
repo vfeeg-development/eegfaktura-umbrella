@@ -42,6 +42,10 @@
 	path = eegfaktura-mosquitto
 	url = https://github.com/eegfaktura/eegfaktura-mosquitto.git
 	branch = main
+[submodule "eegfaktura-postfix"]
+	path = eegfaktura-postfix
+	url = https://github.com/eegfaktura/eegfaktura-postfix.git
+	branch = main
 [submodule "eegfaktura-postgresql"]
 	path = eegfaktura-postgresql
 	url = https://github.com/eegfaktura/eegfaktura-postgresql.git
@@ -53,4 +57,4 @@
 [submodule "eegfaktura-konzepte"]
 	path = eegfaktura-konzepte
 	url = https://github.com/vfeeg-development/eegfaktura-konzepte.git
-	branch = master
+	branch = main
